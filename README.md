@@ -1,10 +1,10 @@
 ### Hi there👋 
 
-I am Laura Chege, a Cloud/DevOps engineer. 
+I am Laura Chege, a Cloud Engineer. 
 
 . ⚡ I'm passionate about building on infrastructure automation to unleash efficiency, reliablity and innovation.
 
-. 🔭 I'm currently building and working on Azure, K8s, Terraform.
+. 🔭 I'm currently building with Azure, K8s, Terraform.
 
 . 👯 I’m looking to collaborate more on opensource (learn and stay informed about cloud-native tools)
 
@@ -13,8 +13,10 @@ I am Laura Chege, a Cloud/DevOps engineer.
 ### Articles/Blogposts 
 1. [To containerize or not to containerize](https://www.linkedin.com/pulse/containerize-laura-chege-0xtye/?trackingId=90s9V%2Bw7QaKlb2%2FmDeOKxg%3D%3D)
 2. [The Power of Kubernetes](https://www.linkedin.com/pulse/power-kubernetes-laura-chege-6j3if/?trackingId=SH4VaG8nRdijaHCZdmHSVg%3D%3D)
- 
+
+ <!--
 ### I build with... 
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,6 +36,7 @@ I am Laura Chege, a Cloud/DevOps engineer.
  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
 </div>
+-->
 
 <!--
 **laura-chege/laura-chege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
