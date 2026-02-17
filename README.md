@@ -8,7 +8,6 @@ I am Laura Chege, a Cloud Engineer.
 
 . 👯 I’m looking to collaborate more on opensource (learn and stay informed about cloud-native tools)
 
-. 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
 ### Articles/Blogposts 
 1. [To containerize or not to containerize](https://www.linkedin.com/pulse/containerize-laura-chege-0xtye/?trackingId=90s9V%2Bw7QaKlb2%2FmDeOKxg%3D%3D)
